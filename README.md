@@ -1,4 +1,3 @@
-The goal is to understand how discount depth and product persistence (stable vs transient listings) relate to customer trust over time.
 # Myntra Women's Dresses Pricing & Discount Analysis
 
 I scraped around 3,000 women's dress listings from Myntra every day for 20 consecutive days across three sort modes: Popularity, Discount, and Recommended. 
